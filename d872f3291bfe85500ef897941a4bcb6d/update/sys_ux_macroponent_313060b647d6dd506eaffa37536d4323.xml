@@ -1306,6 +1306,7 @@
   "readEvaluationMode" : "EXPLICIT"
 } ]</data>
         <dispatched_events>bba128b247d6dd506eaffa37536d4330,e5e2b52ea10b01107f449182c2d2a135</dispatched_events>
+        <events/>
         <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
         <handled_events/>
         <interactions/>

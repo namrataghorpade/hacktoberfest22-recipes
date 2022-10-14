@@ -1787,6 +1787,7 @@
   "readEvaluationMode" : "EAGER"
 } ]</data>
         <dispatched_events>bb9ce05e47925d506eaffa37536d434f,b53cc3c3a183c1107f449182c2d2a14c</dispatched_events>
+        <events/>
         <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
         <handled_events/>
         <interactions/>
